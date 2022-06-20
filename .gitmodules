@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "qgcomp"]
+	path = qgcomp
+	url = https://github.com/alexpkeil1/qgcomp
+	shallow = true
+	registered = true
