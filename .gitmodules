@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bkmrhat"]
+	path = bkmrhat
+	url = https://github.com/alexpkeil1/bkmrhat
+	shallow = true
+	registered = true
 [submodule "qgcomp"]
 	path = qgcomp
 	url = https://github.com/alexpkeil1/qgcomp

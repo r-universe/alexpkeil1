@@ -1,5 +1,9 @@
 [
   {
+    "package": "bkmrhat",
+    "oncran": true
+  },
+  {
     "package": "qgcomp",
     "oncran": true
   }
