@@ -8,8 +8,18 @@
 	url = https://github.com/alexpkeil1/bkmrhat
 	shallow = true
 	registered = true
+[submodule "metropolis"]
+	path = metropolis
+	url = https://github.com/cran/metropolis
+	shallow = true
+	registered = true
 [submodule "qgcomp"]
 	path = qgcomp
 	url = https://github.com/alexpkeil1/qgcomp
+	shallow = true
+	registered = true
+[submodule "qgcompint"]
+	path = qgcompint
+	url = https://github.com/cran/qgcompint
 	shallow = true
 	registered = true
