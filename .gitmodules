@@ -13,4 +13,4 @@
 	url = https://github.com/alexpkeil1/qgcomp
 [submodule "qgcompint"]
 	path = qgcompint
-	url = https://github.com/cran/qgcompint
+	url = https://github.com/alexpkeil1/qgcompint
